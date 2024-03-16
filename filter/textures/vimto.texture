@@ -1,0 +1,39 @@
+{
+  "modelName": "texture",
+  "name": "vimto",
+  "identifier": "texture:810335-c69c9bf5-6abe-4c8d-8c30-42ed25d5c009",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "16f8083963397520e363ca67ecf036c7",
+  "assetLocator": "textures/vimto.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:2341614-c69c9bf5-6abe-4c8d-8c30-42ed25d5c009"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 880,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 308,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "16f8083963397520e363ca67ecf036c7",
+      "colorCount": 44945,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.193193285205656,
+      "pixelsHigh": 880,
+      "pixelsWide": 308
+    }
+  ]
+}
