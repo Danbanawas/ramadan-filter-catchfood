@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "sufra",
+  "identifier": "texture:685419-c69c9bf5-6abe-4c8d-8c30-42ed25d5c009",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "27e6e6b202a220fb3398bbff7f3e8b35",
+  "assetLocator": "textures/sufra.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 343,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 232,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "27e6e6b202a220fb3398bbff7f3e8b35",
+      "colorCount": 39016,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.750549854288122,
+      "pixelsHigh": 343,
+      "pixelsWide": 232
+    }
+  ]
+}

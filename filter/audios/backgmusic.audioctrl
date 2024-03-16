@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "backgmusic",
+  "identifier": "playback_controller_model:252720-5b0ae436-7d41-474a-9d42-b8149fca1d33",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": true,
+  "soundIdentifier": "sound:252116-5b0ae436-7d41-474a-9d42-b8149fca1d33"
+}
